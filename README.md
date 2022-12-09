@@ -49,8 +49,8 @@ Some images representatio
 <img width="700" alt="Screenshot 2022-12-07 at 7 32 30 PM" src="https://user-images.githubusercontent.com/108379616/206609001-e51adde6-7625-4004-b9b2-f469e7233379.png">
 
 <img width="700" alt="Screenshot 2022-12-08 at 9 19 36 PM" src="https://user-images.githubusercontent.com/108379616/206609353-be8e43c1-8363-4b03-b0cc-9099aac7d073.png">
-###### [Back to Table of Contents](#Table-of-Contents)
 
+###### [Back to Table of Contents](#Table-of-Contents)
 ---
 
 ## _Links📎_
@@ -65,7 +65,7 @@ https://bilingualhotelbooking.herokuapp.com
 
 ## _Credits💳_
 
-[Chi Chiu](https://github.com/chichiulam2022), [Keevee](https://github.com/KeeveRW11), [Alejandro](alexJCturbo), [Andy](andyloo416), [Nabeel](https://github.com/nab-man), [Aashay](http://github.com/A-N26)
+[Chi Chiu](https://github.com/chichiulam2022), [Keevee](https://github.com/KeeveRW11), [Alex](https://github.com/AlexJCturbo), [Andy](andyloo416), [Nabeel](https://github.com/nab-man), [Aashay](http://github.com/A-N26)
 ###### [Back to Table of Contents](#Table-of-Contents)
 
 ## _License🪪🦡_
@@ -94,6 +94,7 @@ If you would like to as me anything (ama) about the project, please contact me o
 - e-mail - [📧](__)
 
 </details>
+
 ###### [Back to Table of Contents](#Table-of-Contents)
 
 ## _Contribution➕_
