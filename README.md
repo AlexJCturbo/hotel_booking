@@ -37,7 +37,7 @@ Project 3 (final Project): The app is a `hotel bookings` app with variety of fea
 1. Clone the repo.
 2. `npm i` for dependencies.
 3. If accessing client-side: `npm run start`, to create a production build: `npm run build`.
-###### [Back to Index](#_Table-of-Contents📖_)
+###### [Back to Index](#Table-of-Contents)
 ---
 
 ## _Usage🖥️_
