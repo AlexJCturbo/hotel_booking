@@ -25,7 +25,7 @@ Project 3 (final Project): The app is a `hotel bookings` app with variety of fea
 - [Usage](#Usage)🖥
 - [Links](#Links)📎
 - [Credits](#Credits)💳
-- [Licence](#License)🪪
+- [Licence](#License)📝
 - [Badges](#Badges)🦡
 - [Questions](#Questions)❓
 - [Contribution](#Contribution)➕
@@ -65,10 +65,10 @@ https://bilingualhotelbooking.herokuapp.com
 
 ## _Credits💳_
 
-[Chi Chiu](https://github.com/chichiulam2022), [Keevee](https://github.com/KeeveRW11), [Alex](https://github.com/AlexJCturbo), [Andy](andyloo416), [Nabeel](https://github.com/nab-man), [Aashay](http://github.com/A-N26)
+[Chi Chiu](https://github.com/chichiulam2022), [Keevee](https://github.com/KeeveRW11), [Alex](https://github.com/AlexJCturbo), [Andy](https://github.com/andyloo416), [Nabeel](https://github.com/nab-man), [Aashay](http://github.com/A-N26)
 ###### [Back to Table of Contents](#Table-of-Contents)
 
-## _License🪪🦡_
+## _License📝_
 
 (**Please Click the BADGE for the license details.**)
 
